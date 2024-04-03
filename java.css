@@ -1,0 +1,630 @@
+.navbar {
+
+    background-color: rgb(39, 39, 39);
+
+    color: #fff;
+
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    padding: 9px 10px;
+
+    width: 100vw;
+
+}
+
+
+
+.logo a {
+
+    color: #ffffff;
+
+    text-decoration: none;
+
+    font-size: 24px;
+
+   
+
+   
+
+}
+
+
+
+.nav-links {
+
+    list-style-type: none;
+
+    display: flex;
+
+    justify-content: end;
+
+    justify-content: space-between;
+
+    margin: 1%;
+
+    padding: 0px;
+
+    margin-right: 100px;
+
+
+
+}
+
+
+
+.nav-links li {
+
+    margin-right: 20px;
+
+    display: inline;
+
+   
+
+   
+
+
+
+}
+
+
+
+.nav-links li a {
+
+    text-decoration: none;
+
+    transition: color 0.3s ease;
+
+    display: inline;
+
+    color: #fff;
+
+    justify-content: center;
+
+    margin-right: 20px;
+
+   
+
+}
+
+
+
+.nav-links li a:hover {
+
+    color: yellow;
+
+
+
+}
+
+.boton2{
+
+    font-style: normal;
+
+    background-color: rgb(100, 221, 237);
+
+    backdrop-filter: blur(100px);
+
+    font-size: 15px;
+
+    box-shadow: 0 20px 10px rgba(0, 0, 0, 0.1);
+
+    border: none;
+
+    cursor: pointer;
+
+    color: #f0f0f0;
+
+    height: 150%;
+
+    width: 100px;
+
+    margin-top: -10%;
+
+   
+
+}
+
+.container{
+
+    height: 200px;
+
+    width: 850px;
+
+    background-color: #07eaf1;
+
+    margin: 0 auto;
+
+    padding: 20px;
+
+    font-display: 100px;
+
+    flex-flow: wrap row;
+
+    margin: 0%;
+
+    border-radius: 20px;
+
+    margin-top: 1%;
+
+}
+
+     
+
+
+
+.blanco{
+
+height: 500px;
+
+width: 850px;
+
+    background-color: #f8f5f5;
+
+    margin: 0 auto;
+
+    padding: 20px;
+
+    font-display: 100px;
+
+    flex-flow: wrap row;
+
+    margin: 0%;
+
+    margin-top: -700px;
+
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+
+   
+
+   
+
+}
+
+.blanco2{
+
+    height: 100px;
+
+    width: 850px;
+
+        background-color: #f8f5f5;
+
+        margin: 0 auto;
+
+        padding: 20px;
+
+        font-display: 100px;
+
+        flex-flow: wrap row;
+
+        margin: 0%;
+
+        align-items: flex-end;
+
+        border-radius: 20px;
+
+        margin-top: 20px;
+
+   
+
+}
+
+
+
+.img{
+
+border-radius: 100px;
+
+width: 200px;
+
+height: 200px;
+
+overflow: hidden;
+
+border: 3px solid rgb(0, 0, 0);
+margin-top: -50px;
+
+
+
+
+}
+
+h1{
+
+font-family: Arial, Helvetica, sans-serif;
+
+margin-left: 25px;
+
+}
+
+p{
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+margin-left: 30px;
+
+font-size: 15px;
+
+color: rgb(0, 0, 0);
+
+
+
+
+
+
+}
+
+.p{
+
+font-family: Arial, Helvetica, sans-serif;
+
+margin-left: 25px;
+
+font-size: 30px;
+
+
+
+}
+
+.boton{
+
+
+
+    color: rgb(255, 251, 251);
+
+   
+
+   
+
+    border-radius: 5%;
+
+    padding: 10px;
+
+   
+
+    cursor: pointer;
+
+    margin-left: 30px;
+
+    size: 10%;
+
+}
+
+h2{
+
+    margin-top: 1px;
+
+    margin-left: 30px;
+
+}
+
+
+.blanco3{
+
+    height: 250px;
+
+    width: 500px;
+
+        background-color: #f8f5f5;
+
+        margin: 0 auto;
+
+        padding: 20px;
+
+        font-display: 100px;
+
+        flex-flow: wrap row;
+
+        margin: 0%;
+
+        margin-top: -500px;
+
+        box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+
+        margin-left: 1000px;
+
+        margin-left: 1150px;
+
+        display: flex;
+
+        flex-direction: column;
+
+        border-radius: 20px;
+        
+}
+
+.foto{
+
+    height: 70px;
+
+    width: 70px;
+
+    border: 2px solid rgb(0, 238, 255);
+display: flex;
+    border-radius: 20px;
+    margin-left: -260px;
+    margin-top: 50px;
+    
+
+}
+
+.foto2{
+
+    height: 70px;
+
+    width: 70px;
+
+    margin-top: 150px;
+
+    border: 3px solid rgb(0, 238, 255);
+    margin-left: -520px;
+    border-radius: 20px;
+
+}
+
+.hola{
+
+    margin: 0px;
+
+    margin-top:20px;
+
+    height: 50px;
+
+    font-size: 24px;
+
+    margin-left: -130px;
+
+}
+
+.chao{
+    
+    margin: 0px;
+
+    margin-top: -160px;
+
+    height: 50px;
+
+    font-size: 24px;
+
+    margin-left: -390px;
+
+}
+
+.png,
+.pgn2{
+
+    height: 30px;
+    border: 0px;
+    width: 30px;
+    color: rgb(255, 255, 255);
+    background-color: green;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 100px;
+   
+    
+    
+    
+    
+}
+
+.pjn,
+.pjn2{
+
+    height: 30px;
+
+    width: 30px;
+    cursor: pointer;
+    background-color: red;
+    color: #fff;
+    border: 0px;
+
+    border-radius: 20px;
+
+    margin-top: -26px;
+
+    margin-left: 91px;
+
+}
+
+
+.blanco4{
+
+    height: 350px;
+
+    width: 500px;
+
+        background-color: #f8f5f5;
+
+        margin: 0 auto;
+
+        padding: 20px;
+
+        font-display: 100px;
+
+        flex-flow: wrap row;
+
+        margin: 0%;
+
+        margin-top: 50px;
+
+        box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+
+        margin-left: 1000px;
+
+        margin-left: 1150px;
+
+        display: flex;
+
+        flex-direction: column;
+
+        border-radius: 20px;
+
+}
+
+.aa{
+
+    height: 40px;
+
+    width: 40px;
+
+   
+
+    border-radius: 20px;
+
+   
+
+    margin-left: 20px;
+
+}
+
+.aa2{
+
+    height: 40px;
+
+    width: 40px;
+
+   
+
+    border-radius: 20px;
+
+    margin-top:9px;
+
+    margin-left: 20px;
+
+}
+
+.etan{
+
+    margin-left: 100px;
+
+    margin-top: -24px;
+
+
+
+}
+
+.vomu{
+
+    margin-left: 100px;
+
+    margin-top: -24px;
+
+}
+
+.aa3{
+
+    height: 40px;
+
+    width: 40px;
+
+   
+
+    border-radius: 20px;
+
+    margin-top:9px;
+
+    margin-left: 20px;
+
+}
+
+.kry{
+
+    margin-left: 100px;
+
+    margin-top: -24px;
+
+}
+
+.aa4{
+
+    height: 40px;
+
+    width: 40px;
+
+   
+
+    border-radius: 20px;
+
+    margin-top:9px;
+
+    margin-left: 20px;
+
+}
+
+.blori{
+
+    margin-left: 100px;
+
+    margin-top: -24px;
+
+}
+
+.aa5{
+
+    height: 40px;
+
+    width: 40px;
+
+   
+
+    border-radius: 20px;
+
+    margin-top:9px;
+
+    margin-left: 20px;
+
+}
+
+.kesillo{
+
+    margin-left: 100px;
+
+    margin-top: -24px;
+
+}
+
+.aa6{
+
+    height: 40px;
+
+    width: 40px;
+
+   
+
+    border-radius: 20px;
+
+    margin-top:9px;
+
+    margin-left: 20px;
+
+}
+
+.hi {
+
+    margin-left: 100px;
+
+    margin-top: -24px;
+
+}
+.conexion {
+    display: flex;
+    align-items: center;
+  }
+  
+  .conexion .foto {
+    width: 50px; /* Ajusta el ancho de la imagen según sea necesario */
+    height: 50px; /* Ajusta la altura de la imagen según sea necesario */
+    margin-right: 10px; /* Ajusta el margen derecho según sea necesario */
+  }
+  
+  .conexion .hola {
+    flex-grow: 1;
+    text-align: right;
+  }
+  
+
+
